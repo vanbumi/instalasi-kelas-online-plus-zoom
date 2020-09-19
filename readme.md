@@ -1,145 +1,72 @@
 ![logo](img/logo.png)
 
-# Welcome to Bootcamp Preparation 
+# Course Online Preparation 
 
-Pelatihan Fullstack JavaScript Developer dikelola oleh MedioCademy.com
 
-<br><br>
 
-#### Thema 
+## Persyaratan Minimum mengikuti Kelas PAKET ONLINE + ZOOM
 
-> ##### "Kejar Cepat Menjadi Fullstack JavaScript Developer Profesional".
+1. Tidak ada persyaratan harus tahu programming, kelas ini untuk umum dan semua level.
 
-<br>
+2. Memiliki Laptop / PC minimal Dual Core.
 
-#### Nama Kelas
+3. RAM minimal 4 Gb.
 
-3 Days Bootcamp **"plus"** Fullstack JavaScript Developer.
+4. Koneksi Internet.
 
-#### Deskripsi
+5. Sisitm Operasi Windows 10 System 64 bit, atau Linux, atau MacOs yang setara.
 
-Pelatihan ini adalah Kombinasi antara **"3 Hari Kelas Tatap Muka"** plus **"3 Bulan Kelas ONLINE"** di web mediocademy.com.
+   
 
-<br>
+## Run Down Materi:
 
-#### Persyaratan mengikuti kelas ini
+1. HTML & CSS. 
+2. Bootstrap JS.
+3. Sistim Git.
+4. Deploy heroku.
+5. JavaScript dasar.
+6. Database MongoDB.
+7. Belajar Backend Web Development dengan NodeJS.
+8. Belajar Frontend Web Development dengan React JS
+9. Membuat Project Web dengan Node JS, Mongodb dan React JS.
 
-##### 1. Keahlian Dasar.
 
-Tidak ada keahlian khusus programming, kelas ini untuk umum dan semua level.
 
-##### 2. Computer Hardware.
+## BIMBINGAN ONLINE
 
-* Memiliki Laptop minimal Dual Core.
-* RAM minimal 4 Gb.
-* Koneksi Internet.
+1. Diskusi online via Telegram Grup.
+2. Kelas Live dengan Zoom (Kelas khusus Paket Online Plus Zoom 499K)
 
-##### 3. Computer Operating System.
 
-* Operating System OS, Linux, Windows 10.
 
-<br>
+## Instalasi
 
-### Run down 3 DaysBootcamp
+### 1. Instal  NodeJS
 
-Materi yang akan di pelajari:
+Instal node js versi LTS download disini:  ```nodejs.org```
 
-##### 1. Review Intalasi & Apa itu Fulstack. 
+### 2. Instal Code Editor Visual Studio Code
 
-##### 2. HTML & CSS. 
+Download VSC disini : https://code.visualstudio.com/download
 
-##### 3. BootstrapJS.
+### 3. Instal Sistim GIT
 
-##### 4. Git Versioning.
+1. Instal GIT pada OS anda masing-masing, ini link nya https://git-scm.com 
+2. Pengguna **windows**  https://gitforwindows.org, 
+3. Belajar lebiih dalam **Apa itu GIT SYSTEM** versi Indonesia : https://git-scm.com/book/id/v1/Memulai-Git-Dasar-Git .
 
-##### 5. Deploy heroku.
+### 4. Instal 4: SSH KEY
 
-##### 6. JavaScript dasar.
+SSH KEY banyak di gunakan oleh programer agar laptop/pc mereka ter autorisasi secara otomatis dengan server cloud service, salah satu contoh adalah dengan  github.com dengan menggunakan **SSH key** memudahkan akses anda ke github melalui GIT BASH/Terminal/commandline, tanpa harus entry username dan password berulang-ulang saat mengakses service tersebut. 
 
-##### 7. MongoDB.
+1. Petunjuk Instal SSH pada windows disini : 
+2. Petunjuk Instal SSH di macOS dan Linux disini : 
 
-##### 8. NodeJS.
+###  5. Setup Mongodb Cloud
 
-##### 9. Pengenalan React.
+Kita akan belajar menggunakan database mongodb, dengan menggunakan remote database di cloud server mongodb.
 
+Petunjuk setup Mongodb Kompas klik disini : 
 
 
-#### BIMBINGAN ONLINE
 
-1. Diskusi online.
-2. Lanjut pengerjakan project case.
-
-<br>
-
-
-### Cara Mendaftar
-
-#### 1. Contact Us
-
-* Customer Service: WhatsApp: 0859-5651-2111
-* Email: mediocademy@gmail.com
-* Website: courses.mediocademy.com 
-
-#### 2. Membayar Biaya Pelatihan
-
-* Mandiri norek 1310015876404 an Setyo Bagus Widyo Bumi.
-* BCA norek 7000176782 an Setyo Bagus Widyo Bumi.
-* BTPN Jenius norek 90011357772 an Setyo Bagus Widyo Bumi.
-* BNI norek 0811744529 an Setyo Bagus Widyo Bumi.
-
-#### 3. Membuat akun gitlab.com
-
-Gitlab.com kita gunakan sebagai repository (online) tempat kita menyimpan MATERI dan SOUCE CODE.
-Buka browser anda dan ketikan gitlab.com, silahkan signup gunakan email yang sudah terdaftar pada kami.
-
-#### 4. Login di gitlab.com
-
-Setelah membuat akun di gitlab.com silahkan login di gitlab.com
-
-<br>
-
-
-### Instalasi
-
-Dibawah ini yang perlu anda install sebelum event pelatihan di mulai:
-
-**Instal 1: NodeJS**
-
-/> Instal node js versi terakhir (LTS) ```nodejs.org```
-
-**Instal 2: Editor**
-
-/> Instal IDE (Integrated Development Environment ) atau sering disebut Code Editor, silahkan install IDE **visual studio code**, link nya: https://code.visualstudio.com/ .
-
-**Instal 3: GIT System**
-
-> Instal GIT pada OS anda masing2, ini link nya https://git-scm.com, bagi pengguna **windows** mungkin link ini akan banyak membantu https://gitforwindows.org, yang ingin **belajar apa itu GIT** versi Indonesia bisa di link ini https://git-scm.com/book/id/v1/Memulai-Git-Dasar-Git .
-
-**Instal 4: SSH KEY**
-
-> Buat akun github.com dan gunakan **SSH key** untuk memudahkan akses anda ke github melalui GIT BASH/Terminal/commandline. 
-
-> Instal SSH di windows: https://github.com/vanbumi/Bootcamp-Preparation/blob/master/Setup-SSH%20-Windows.md
-
-> Instal SSH di macOS dan Linux: https://github.com/vanbumi/Bootcamp-Preparation/blob/master/Setup-SSH%20-macOSLinux.md
-
-**Instal 5: Mongodb**
-
-[Install MongoDB here](https://github.com/vanbumi/Bootcamp-Preparation/blob/master/Instal-mongodb.md)
-
-**Instal 6: Mongodb Compass atau Robo Mongo** 
-
-Mongo Compass:
-
-	https://www.mongodb.com/download-center/community
-
-Robo Mongo:
-
-```
-https://robomongo.org/download
-```
-
-<br>
-<br>
-
-/> Go to [Rundown Bootcamp.](https://github.com/vanbumi/Bootcamp-Preparation/blob/master/rundown-bootcamp.md)
