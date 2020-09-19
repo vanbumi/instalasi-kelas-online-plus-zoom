@@ -37,16 +37,16 @@ Install Mongodb di local anda adalah pililhan dan **TIDAK HARUS anda lakukan**, 
 
 5. Bila ada error seperti ini: 
 
-		```
+	```
 	Data directory C:\data\db\ not found
 	```
 	
 6. Solusi nya adalah  buat folder baru di folder C :
 
+  ```
+C:\data\db
    ```
-   	C:\data\db
-   ```
 
 
 
-SELESAI
+**SELESAI**
