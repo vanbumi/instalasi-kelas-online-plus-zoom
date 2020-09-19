@@ -46,6 +46,8 @@ Install Mongodb di local anda adalah pililhan dan **TIDAK HARUS anda lakukan**, 
   ```
 C:\data\db
    ```
+   
+   
 
 
 
