@@ -32,10 +32,16 @@
 
 
 
-## BIMBINGAN ONLINE
+## CARA BELAJAR
 
-1. Diskusi online via Telegram Grup.
-2. Kelas Live dengan Zoom (Kelas khusus Paket Online Plus Zoom 499K)
+1. Diskusi online via Telegram Grup:
+   1. Tergabung di grup LIVE TIME. 
+   2. Sistim belajar mandiri via Video Recorded dan
+   3. Tanya Jawab Via Grup Telegram.
+2. Kelas Live dengan Zoom:
+   1. Kelas Live harus mengikuti jadwal yang di tentukan oleh MedioCademy.
+   2. Kelas Live diadakan 8x pertemuan dengan durasi @1 atau 2 Jam (Tergantung Kondisi).
+   3. Peserta yang berhalangan hadir dapat melihat rekaman Live nya yang kami sediakan.
 
 
 
@@ -59,14 +65,14 @@ Download VSC disini : https://code.visualstudio.com/download
 
 SSH KEY banyak di gunakan oleh programer agar laptop/pc mereka ter autorisasi secara otomatis dengan server cloud service, salah satu contoh adalah dengan  github.com dengan menggunakan **SSH key** memudahkan akses anda ke github melalui GIT BASH/Terminal/commandline, tanpa harus entry username dan password berulang-ulang saat mengakses service tersebut. 
 
-1. Petunjuk Instal SSH pada windows disini : 
-2. Petunjuk Instal SSH di macOS dan Linux disini : 
+1. Petunjuk Instal SSH pada windows disini : https://github.com/vanbumi/instalasi-kelas-online-plus-zoom/blob/master/Setup-SSH%20-Windows.md
+2. Petunjuk Instal SSH di macOS dan Linux disini : https://github.com/vanbumi/instalasi-kelas-online-plus-zoom/blob/master/Setup-SSH%20-macOSLinux.md
 
 ###  5. Setup Mongodb Cloud
 
 Kita akan belajar menggunakan database mongodb, dengan menggunakan remote database di cloud server mongodb.
 
-Petunjuk setup Mongodb Kompas klik disini : 
+Petunjuk setup Mongodb klik disini : https://github.com/vanbumi/instalasi-kelas-online-plus-zoom/blob/master/Instal-mongodb.md 
 
 
 
